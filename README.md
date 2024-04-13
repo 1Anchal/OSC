@@ -1,2 +1,2 @@
 # OSC
-This is my assignment for frontend.
+This is my assignment for front end.
